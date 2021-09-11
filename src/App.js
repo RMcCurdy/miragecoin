@@ -3,7 +3,9 @@ import './styles.css';
 function App() {
     return (
         <>
-            <div>Why does Chris like Harvey's? It's dogshit.</div>
+            <div style={{ color: 'red' }}>
+                Why does Chris like Harvey's? It's dogshit.
+            </div>
         </>
     );
 }
