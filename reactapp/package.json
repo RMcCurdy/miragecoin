@@ -2,7 +2,7 @@
   "name": "miragecoin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://miragecoin.io",
+  "homepage": "https://rmccurdy.github.io/miragecoin",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
