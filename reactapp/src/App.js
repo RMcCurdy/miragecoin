@@ -3,8 +3,13 @@ import './styles.css';
 function App() {
     return (
         <>
-            <div style={{ color: 'red' }}>
-                Why does Chris like Harvey's? It's dogshit.
+            <div
+                onClick={() =>
+                    window.open('https://youtu.be/g1kBglPpc00?t=172', '_blank')
+                }
+                className='harveys-link'
+                style={{ color: 'blue', textDecoration: 'underline' }}>
+                https://youtu.be/g1kBglPpc00?t=172
             </div>
         </>
     );
