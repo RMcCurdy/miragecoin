@@ -1,0 +1,2 @@
+(this.webpackJsonpmiragecoin=this.webpackJsonpmiragecoin||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),i=n(4),s=n.n(i),o=(n(3),n(0));var d=function(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsx)("div",{style:{color:"red"},children:"Why does Chris like Harvey's? It's dogshit."})})};s.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))},3:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7ec8e262.chunk.js.map
