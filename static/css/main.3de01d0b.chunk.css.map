@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,cACI,YAAa,CACb,mCAA4B,CAA5B,2BAEJ,CAEA,oBACI,cACJ","file":"main.3de01d0b.chunk.css","sourcesContent":[".harveys-link {\r\n    color: 'blue';\r\n    text-decoration: 'underline';\r\n\r\n}\r\n\r\n.harveys-link:hover {\r\n    cursor: pointer;\r\n}"]}
